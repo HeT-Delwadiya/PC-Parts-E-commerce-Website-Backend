@@ -26,6 +26,8 @@ This application is deployed on Heroku. Please check it out :smile: https://pcpa
 * Admin:      Email- admin@admin.net  |  password- admin123
 * User:         Email- user@test.com  |  password- user123
 
+* For demo purchase, use this card ->  Card no.  378282246310005  |  Exp. 12/21
+
 ## Install
 
 Some basic Git commands are:
