@@ -30,7 +30,7 @@ This application is deployed on Heroku. Please check it out :smile: https://pcpa
 
 ## Install
 
-Some basic Git commands are:
+Some basic Git commands are: 
 
 ```
 $ git clone https://github.com/HeT-Delwadiya/PC-Parts-E-commerce-Website-Backend.git
