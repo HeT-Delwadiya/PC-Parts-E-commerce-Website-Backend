@@ -21,7 +21,7 @@ An ecommerce store built with MERN stack, and utilizes third party API's. This e
 
 ## Demo
 
-This application is deployed on Heroku. Please check it out :smile: https://pcparts-shop.herokuapp.com/.
+This application is deployed on Heroku. Please check it out :smile: https://pcparts.hetdelwadiya.dev/.
 
 * Admin:      Email- admin@admin.net  |  password- admin123
 * User:         Email- user@test.com  |  password- user123
